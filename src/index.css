@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif !important;
+}
+
+body {
+    background-color: rgb(26, 33, 56);
+}
+.card-badge .css-hork0d-MuiBadge-badge,
+.card-badge .css-iozj1x-MuiBadge-badge {
+    font-size: 0.9rem !important;
+    min-width: 25px !important;
+    height: 25px !important;
+    border-radius: 15px !important;
+    position: initial !important;
+    transform: none !important;
+    color: #f9f9f9;
+}
+
+.css-2wuqrj-MuiPaper-root-MuiAppBar-root {
+    background-image: none !important;
+}
+
+
+@media(max-width:596px){
+  .css-96uuyl{
+    width: 50%!important;
+  }
+}
