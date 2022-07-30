@@ -9,8 +9,7 @@
 body {
     background-color: rgb(26, 33, 56);
 }
-.card-badge .css-hork0d-MuiBadge-badge,
-.card-badge .css-iozj1x-MuiBadge-badge {
+.card-badge .MuiBadge-badge{
     font-size: 0.9rem !important;
     min-width: 25px !important;
     height: 25px !important;
